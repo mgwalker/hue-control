@@ -1,0 +1,17 @@
+{
+  "name": "hue-control",
+  "version": "1.0.0",
+  "description": "Client controller for Philips Hue hub",
+  "main": "bin/main.js",
+  "keywords": [
+    "hue",
+    "philips",
+    "lighting"
+  ],
+  "author": "Greg Walker <hue-control@darkcooger.net>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "mgwalker/hue-control"
+  }
+}
